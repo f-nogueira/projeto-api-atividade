@@ -1,6 +1,6 @@
 # projeto-api-atividade# Microsserviço de Atividades
 
-Este microsserviço é responsável pela gestão de atividades vinculadas aos professores, fornecidos pela API de Professores.
+Este microsserviço é responsável pela gestão de atividades vinculadas aos professores, fornecidos pela API de Sistema de Gerenciamento Escolas.
 
 ## 🏗️ Arquitetura
 
